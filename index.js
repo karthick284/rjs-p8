@@ -30,7 +30,7 @@ function Recipe() {
       {/* Card 1 */}
       <Card>
         <img
-          src="Chicken Noodle Soup.jpg"
+          src="image1.jpg"
           alt="Chicken Noodle Soup"
           style={{ width: "100%", height: "180px", objectFit: "cover" }}
         />
@@ -52,7 +52,7 @@ function Recipe() {
       {/* Card 2 */}
       <Card>
         <img
-          src="curried egg potato salad.jpg"
+          src="image2.jpg"
           alt="Curried Egg Salad"
           style={{ width: "100%", height: "180px", objectFit: "cover" }}
         />
@@ -72,7 +72,7 @@ function Recipe() {
       {/* Card 3 */}
       <Card>
         <img
-          src="Oat Clusters.jpg"
+          src="image3.jpg"
           alt="Oat Clusters"
           style={{ width: "100%", height: "180px", objectFit: "cover" }}
         />
